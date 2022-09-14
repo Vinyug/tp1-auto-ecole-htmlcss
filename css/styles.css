@@ -1,5 +1,18 @@
 
-@import url('http://fonts.cdnfonts.com/css/myriad-pro');
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url(../assets/font/MYRIADPRO-BOLD.OTF), 
+    url(../assets/font/MYRIADPRO-BOLDCOND.OTF),
+    url(../assets/font/MYRIADPRO-BOLDCONDIT.OTF),
+    url(../assets/font/MYRIADPRO-BOLDIT.OTF), 
+    url(../assets/font/MYRIADPRO-COND.OTF),
+    url(../assets/font/MYRIADPRO-CONDIT.OTF),
+    url(../assets/font/MyriadPro-Light.otf),
+    url(../assets/font/MYRIADPRO-REGULAR.OTF),
+    url(../assets/font/MYRIADPRO-SEMIBOLD.OTF),
+    url(../assets/font/MYRIADPRO-SEMIBOLDIT.OTF);
+}
+
 
 /* GENERAL */
 * {
