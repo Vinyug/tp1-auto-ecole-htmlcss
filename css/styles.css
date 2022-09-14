@@ -1,4 +1,5 @@
 
+@import url('http://fonts.cdnfonts.com/css/myriad-pro');
 @font-face {
     font-family: 'Myriad Pro';
     src: url(../assets/font/MYRIADPRO-BOLD.OTF), 
@@ -20,7 +21,7 @@
     padding: 0;
 }
 body {
-    font-family: 'Myriad Pro', cursive, sans-serif;
+    font-family: 'Myriad Pro', sans-serif;
     color: #1a1a1a;
     font-weight: bold;
 }
